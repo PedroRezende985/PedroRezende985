@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é Pedro Rezende
+- 👀 Estou interessado em aprender programação
+- 🌱 atualmente estou aprendendo Java script
+- 💞️ Eu quero ser um programador
